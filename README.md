@@ -82,6 +82,9 @@ always @* begin
 end
  endmodule
 
+
+
+
 ## Verilog Code for Sequence Detector Using Mealy FSM
 
 module mealy_fsm(clk,rst,inp,out);
