@@ -1,4 +1,4 @@
-# Exp No:5 Sequence Detector using verilog hdl
+# Exp No:6  Write the verilog code for Sequence Detector using Moore and Mealy state machines and verify with testbench
 
 ## Aim
 To design and simulate a sequence detector using both Moore and Mealy state machine models in Verilog HDL, and verify their functionality through a testbench using the Vivado 2023.1 simulation environment. The objective is to detect a specific sequence of bits (e.g., 1011) and compare the Moore and Mealy designs.
